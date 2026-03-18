@@ -1,3 +1,5 @@
+Unupdated, basic discord.js bot template.
+
 
 # Steps👣
 1. Fork and Download Repo
